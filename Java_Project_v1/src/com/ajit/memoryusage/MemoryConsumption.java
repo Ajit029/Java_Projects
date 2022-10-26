@@ -1,4 +1,4 @@
-package com.ajit.javatestfiles;
+package com.ajit.memoryusage;
 
 public class MemoryConsumption {
 
